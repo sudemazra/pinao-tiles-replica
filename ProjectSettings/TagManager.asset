@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - piano
+  - border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - pianotiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3380157409
+    locked: 0
+  - name: tiles
+    uniqueID: 3189128927
+    locked: 0
+  - name: score
+    uniqueID: 2844528407
+    locked: 0
+  - name: scoreBackground
+    uniqueID: 1058631839
+    locked: 0
+  - name: logoBackground
+    uniqueID: 3995777437
+    locked: 0
+  - name: logoNameBack
+    uniqueID: 330993255
+    locked: 0
+  - name: logoArrow
+    uniqueID: 2906142445
+    locked: 0
+  - name: logoName
+    uniqueID: 1388811649
+    locked: 0
